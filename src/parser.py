@@ -1,5 +1,5 @@
 from html.parser import HTMLParser
-from .element import Element
+from element import Element
 
 class Parser(HTMLParser):
     def __init__(self,convert_charrefs=True):
