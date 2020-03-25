@@ -1,14 +1,23 @@
-from distutils.core import setup
+import setuptools
 
-setup(
-    name = 'garser',
-    packages = ['garser'],
-    version = 'v1.0-alpha',
-    description = 'An HTML Parser.',
-    author = 'GrayHat',
-    author_email = 'grayhathacks10@gmail.com',
-    url = 'https://github.com/GrayHat12/garser',
-    download_url = 'https://github.com/GrayHat12/garser/archive/v1.0-alpha.tar.gz',
-    keywords = ['Parser', 'Scraping', 'HTMLParser'],
-    classifiers = [],
+with open("README.md", "r") as fh:
+    long_description = fh.read()
+
+setuptools.setup(
+    name="garser-grayhat", # Replace with your own username
+    version="1.0",
+    author="GrayHat",
+    author_email="garyahthacks10@gmail.com",
+    description="A HTML Parser",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
+    url="https://github.com/grayhat12/garser",
+    download_url="https://github.com/GrayHat12/garser/archive/v1.0-alpha.tar.gz",
+    packages=setuptools.find_packages(),
+    classifiers=[
+        "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: GNU General Public License (GPL)",
+        "Operating System :: OS Independent",
+    ],
+    python_requires='>=3.6',
 )

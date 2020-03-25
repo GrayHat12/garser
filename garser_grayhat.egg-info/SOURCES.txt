@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+garser/__init__.py
+garser/element.py
+garser/parser.py
+garser_grayhat.egg-info/PKG-INFO
+garser_grayhat.egg-info/SOURCES.txt
+garser_grayhat.egg-info/dependency_links.txt
+garser_grayhat.egg-info/top_level.txt
