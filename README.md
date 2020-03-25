@@ -8,9 +8,6 @@
   <a href="#">
     <img src="https://img.shields.io/badge/python-3.7-blue.svg?style=flat-square" alt="Python version" />
   </a>
-  <a href="https://github.com/grayhat12/garser/releases">
-    <img src="https://img.shields.io/github/release/grayhat12/garser.svg?style=flat-square" alt="Latest version" />
-  </a>
   <a href="https://github.com/grayhat12/garser/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/grayhat12/garser.svg?style=flat-square" alt="License" />
   </a>
