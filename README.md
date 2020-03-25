@@ -3,7 +3,7 @@
 </p>
 <div align="center">
   <a href="https://travis-ci.org/github/GrayHat12/garser">
-    <img src="https://travis-ci.org/GrayHat12/garser.svg?branch=master?style=flat-square" alt="Build Status" />
+    <img src="https://api.travis-ci.org/GrayHat12/garser.svg?branch=master&status=created" alt="Build Status" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/python-3.7-blue.svg?style=flat-square" alt="Python version" />
