@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://imgur.com/4vyYYCc" width="500" />
+  <img src="https://i.imgur.com/4vyYYCc.png" width="500" />
 </p>
-
 <div align="center">
   <a href="https://travis-ci.org/github/GrayHat12/garser">
     <img src="https://travis-ci.org/GrayHat12/garser.svg?branch=master?style=flat-square" alt="Build Status" />
