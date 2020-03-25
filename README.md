@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/4vyYYCc.png" width="500" />
+  <img src="https://grayhat12.github.io/compiler/favicon_io/favicon-32x32.png" width="500" />
 </p>
 <div align="center">
   <a href="https://travis-ci.org/github/GrayHat12/garser">
