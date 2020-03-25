@@ -1,4 +1,4 @@
-from src import Parser
+from garser import Parser
 import requests
 
 r = requests.get('https://github.com/GrayHat12').text
