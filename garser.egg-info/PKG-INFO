@@ -1,12 +1,12 @@
 Metadata-Version: 2.1
-Name: garser-grayhat
+Name: garser
 Version: 1.1
 Summary: A HTML Parser
 Home-page: https://github.com/grayhat12/garser
 Author: GrayHat
 Author-email: garyahthacks10@gmail.com
 License: UNKNOWN
-Download-URL: https://github.com/GrayHat12/garser/archive/v1.1-alpha.tar.gz
+Download-URL: https://github.com/GrayHat12/garser/archive/v1.1.tar.gz
 Description: <p align="center">
           <img src="https://grayhat12.github.io/compiler/favicon_io/favicon-32x32.png" width="32" />
         </p>
