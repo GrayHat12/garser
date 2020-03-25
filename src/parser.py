@@ -1,5 +1,5 @@
 from html.parser import HTMLParser
-from element import Element
+from .element import Element
 
 class Parser(HTMLParser):
     def __init__(self,convert_charrefs=True):
@@ -40,18 +40,3 @@ class Parser(HTMLParser):
         element = self.getParentElement()
         element.formatStructure()
         self.element = element
-
-#p=Parser()
-"""url = input()
-parser = Parser()
-txt = requests.get(url).text
-with open('test.html','w+', encoding="utf-8") as f:
-    f.write(txt)
-parser.feed(txt)
-parser.processElements()
-element = parser.getParentElement()
-with open('test2.json','w+',encoding='utf-8') as f:
-    json.dump(element.getData(),f)
-with open('test2.html','w+',encoding="utf-8") as f:
-    f.write(element.generateHtml())
-print("Done")"""
