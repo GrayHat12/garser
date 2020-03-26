@@ -11,7 +11,7 @@
   <a href="https://github.com/grayhat12/garser/releases">
     <img src="https://img.shields.io/github/v/release/grayhat12/garser.svg?style=flat-square" alt="Latest version" />
   </a>
-  <a href="https://github.com/grayhat12/garser/blob/master/LICENSE">
+  <a href="https://github.com/GrayHat12/garser/blob/master/LICENCE">
     <img src="https://img.shields.io/github/license/grayhat12/garser.svg?style=flat-square" alt="License" />
   </a>
 </div>
